@@ -283,10 +283,18 @@ if __name__ == '__main__':
 
 
     img_paths = [ \
-        '/home/polphit/Downloads/face_images/lennon-1.jpg_aligned.png', \
-        '/home/polphit/Downloads/face_images/lennon-2.jpg_aligned.png', \
-        '/home/polphit/Downloads/face_images/clapton-1.jpg_aligned.png', \
-        '/home/polphit/Downloads/face_images/clapton-2.jpg_aligned.png', \
+        # '/home/polphit/Downloads/face_images/lennon-1.jpg_aligned.png', \
+        # '/home/polphit/Downloads/face_images/lennon-2.jpg_aligned.png', \
+        # '/home/polphit/Downloads/face_images/clapton-1.jpg_aligned.png', \
+        # '/home/polphit/Downloads/face_images/clapton-2.jpg_aligned.png', \
+
+        '/home/jason/workspace/python/face-in-face/data/face/1.png', \
+        # '/home/jason/workspace/python/face-in-face/data/face/2.png', \
+        # '/home/jason/workspace/python/face-in-face/data/face/3.png', \
+        # '/home/jason/workspace/python/face-in-face/data/face/4.png', \
+        # '/home/jason/workspace/python/face-in-face/data/face/5.png', \
+        # '/home/jason/workspace/python/face-in-face/data/face/11.jpeg', \
+        '/home/jason/workspace/python/face-in-face/data/face/12.jpg', \
         ]
     imgs = []
     for img_path in img_paths:
